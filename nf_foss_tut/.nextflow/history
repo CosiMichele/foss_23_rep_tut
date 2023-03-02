@@ -1,0 +1,3 @@
+2023-03-02 13:11:48	4.1s	naughty_mccarthy	OK	66baaf0091185eb3b6e905c16861b357	fe603279-8fe6-4854-972b-b3d65f621b19	nextflow run script1.nf
+2023-03-02 13:15:33	3.5s	elated_ardinghelli	OK	03d8ffc2cb36b96650226dd71970fd74	fe603279-8fe6-4854-972b-b3d65f621b19	nextflow run script2.nf -resume --reads 'data/ggal/*_{1,2}.fq'
+2023-03-02 13:17:09	12.3s	silly_lalande	OK	d118356290d3671ac8765828f37482e2	fe603279-8fe6-4854-972b-b3d65f621b19	nextflow run script3.nf -resume --reads 'data/ggal/*_{1,2}.fq'

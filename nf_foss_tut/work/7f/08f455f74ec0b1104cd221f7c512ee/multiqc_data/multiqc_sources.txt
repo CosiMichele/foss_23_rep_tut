@@ -1,0 +1,10 @@
+Module	Section	Sample Name	Source
+Salmon	all_sections	lung	/home/user/work/foss_23_rep_tut/nf_foss_tut/work/7f/08f455f74ec0b1104cd221f7c512ee/lung/libParams/flenDist.txt
+Salmon	all_sections	liver	/home/user/work/foss_23_rep_tut/nf_foss_tut/work/7f/08f455f74ec0b1104cd221f7c512ee/liver/libParams/flenDist.txt
+Salmon	all_sections	gut	/home/user/work/foss_23_rep_tut/nf_foss_tut/work/7f/08f455f74ec0b1104cd221f7c512ee/gut/libParams/flenDist.txt
+FastQC	all_sections	gut_1	/home/user/work/foss_23_rep_tut/nf_foss_tut/work/7f/08f455f74ec0b1104cd221f7c512ee/fastqc_gut_logs/gut_1_fastqc.zip
+FastQC	all_sections	gut_2	/home/user/work/foss_23_rep_tut/nf_foss_tut/work/7f/08f455f74ec0b1104cd221f7c512ee/fastqc_gut_logs/gut_2_fastqc.zip
+FastQC	all_sections	lung_1	/home/user/work/foss_23_rep_tut/nf_foss_tut/work/7f/08f455f74ec0b1104cd221f7c512ee/fastqc_lung_logs/lung_1_fastqc.zip
+FastQC	all_sections	lung_2	/home/user/work/foss_23_rep_tut/nf_foss_tut/work/7f/08f455f74ec0b1104cd221f7c512ee/fastqc_lung_logs/lung_2_fastqc.zip
+FastQC	all_sections	liver_1	/home/user/work/foss_23_rep_tut/nf_foss_tut/work/7f/08f455f74ec0b1104cd221f7c512ee/fastqc_liver_logs/liver_1_fastqc.zip
+FastQC	all_sections	liver_2	/home/user/work/foss_23_rep_tut/nf_foss_tut/work/7f/08f455f74ec0b1104cd221f7c512ee/fastqc_liver_logs/liver_2_fastqc.zip
